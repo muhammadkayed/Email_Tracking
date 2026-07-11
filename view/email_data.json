@@ -1,0 +1,407 @@
+{
+  "draw": 1,
+  "recordsTotal": 50,
+  "recordsFiltered": 50,
+  "data": [
+    {
+      "emailHistSeq": 10501,
+      "creationDate": "2026-07-08T09:15:30.000+0000",
+      "sentDate": "2026-07-08T09:15:45.000+0000",
+      "subjectName": "Password Reset Request - User Account #PRD-44821",
+      "sysName": "PRDEV",
+      "workspace": "Production"
+    },
+    {
+      "emailHistSeq": 10500,
+      "creationDate": "2026-07-08T08:42:10.000+0000",
+      "sentDate": null,
+      "subjectName": "URGENT: System Alert - Database Connection Pool Exhausted",
+      "sysName": "DAPIS",
+      "workspace": "Production"
+    },
+    {
+      "emailHistSeq": 10499,
+      "creationDate": "2026-07-08T08:30:00.000+0000",
+      "sentDate": "2026-07-08T08:30:22.000+0000",
+      "subjectName": "Weekly Compliance Report - Week 27",
+      "sysName": "RECALL",
+      "workspace": "Production"
+    },
+    {
+      "emailHistSeq": 10498,
+      "creationDate": "2026-07-08T07:55:18.000+0000",
+      "sentDate": "2026-07-08T07:55:34.000+0000",
+      "subjectName": "New Recall Campaign Notification - RC-2026-0712",
+      "sysName": "RECALL",
+      "workspace": "Production"
+    },
+    {
+      "emailHistSeq": 10497,
+      "creationDate": "2026-07-08T07:20:45.000+0000",
+      "sentDate": null,
+      "subjectName": "Failed Delivery Notice: Invoice #INV-98234 to vendor@supplier.com",
+      "sysName": "PRDEV",
+      "workspace": "Staging"
+    },
+    {
+      "emailHistSeq": 10496,
+      "creationDate": "2026-07-07T16:45:30.000+0000",
+      "sentDate": "2026-07-07T16:45:55.000+0000",
+      "subjectName": "Daily Batch Processing Summary - July 7, 2026",
+      "sysName": "BATCH",
+      "workspace": "Production"
+    },
+    {
+      "emailHistSeq": 10495,
+      "creationDate": "2026-07-07T15:30:12.000+0000",
+      "sentDate": "2026-07-07T15:30:28.000+0000",
+      "subjectName": "User Registration Confirmation - jdoe@fcagroup.com",
+      "sysName": "PRDEV",
+      "workspace": "Production"
+    },
+    {
+      "emailHistSeq": 10494,
+      "creationDate": "2026-07-07T14:22:05.000+0000",
+      "sentDate": null,
+      "subjectName": "Scheduled Maintenance Window Notification - Server PRD-WEB-03",
+      "sysName": "INFRA",
+      "workspace": "Production"
+    },
+    {
+      "emailHistSeq": 10493,
+      "creationDate": "2026-07-07T13:10:44.000+0000",
+      "sentDate": "2026-07-07T13:11:02.000+0000",
+      "subjectName": "Parts Order Confirmation - PO#2026-55891",
+      "sysName": "PARTS",
+      "workspace": "Production"
+    },
+    {
+      "emailHistSeq": 10492,
+      "creationDate": "2026-07-07T12:05:33.000+0000",
+      "sentDate": "2026-07-07T12:05:50.000+0000",
+      "subjectName": "Dealer Inventory Update - Region: Northeast",
+      "sysName": "DEALER",
+      "workspace": "Production"
+    },
+    {
+      "emailHistSeq": 10491,
+      "creationDate": "2026-07-07T11:30:20.000+0000",
+      "sentDate": null,
+      "subjectName": "ERROR: SMTP Connection Timeout - Notification to admin@fcagroup.com",
+      "sysName": "DAPIS",
+      "workspace": "Production"
+    },
+    {
+      "emailHistSeq": 10490,
+      "creationDate": "2026-07-07T10:15:18.000+0000",
+      "sentDate": "2026-07-07T10:15:35.000+0000",
+      "subjectName": "Vehicle Safety Investigation Report - Case VSI-2026-0034",
+      "sysName": "RECALL",
+      "workspace": "Production"
+    },
+    {
+      "emailHistSeq": 10489,
+      "creationDate": "2026-07-07T09:45:00.000+0000",
+      "sentDate": "2026-07-07T09:45:22.000+0000",
+      "subjectName": "Monthly KPI Dashboard - Engineering Division",
+      "sysName": "REPORTS",
+      "workspace": "Production"
+    },
+    {
+      "emailHistSeq": 10488,
+      "creationDate": "2026-07-07T09:00:10.000+0000",
+      "sentDate": "2026-07-07T09:00:30.000+0000",
+      "subjectName": "Warranty Claim Approved - Claim #WC-2026-18234",
+      "sysName": "WARRANTY",
+      "workspace": "Production"
+    },
+    {
+      "emailHistSeq": 10487,
+      "creationDate": "2026-07-06T17:30:45.000+0000",
+      "sentDate": null,
+      "subjectName": "FAILED: Automated Test Suite Results - Build #4521",
+      "sysName": "CICD",
+      "workspace": "Development"
+    },
+    {
+      "emailHistSeq": 10486,
+      "creationDate": "2026-07-06T16:20:30.000+0000",
+      "sentDate": "2026-07-06T16:20:48.000+0000",
+      "subjectName": "Access Request Approved - Application: WebDAPIS Admin Portal",
+      "sysName": "PRDEV",
+      "workspace": "Production"
+    },
+    {
+      "emailHistSeq": 10485,
+      "creationDate": "2026-07-06T15:10:22.000+0000",
+      "sentDate": "2026-07-06T15:10:40.000+0000",
+      "subjectName": "Supplier Quality Alert - Component: Brake Assembly BA-4400",
+      "sysName": "QUALITY",
+      "workspace": "Production"
+    },
+    {
+      "emailHistSeq": 10484,
+      "creationDate": "2026-07-06T14:05:15.000+0000",
+      "sentDate": "2026-07-06T14:05:32.000+0000",
+      "subjectName": "Training Completion Certificate - OSHA Safety Module",
+      "sysName": "HR",
+      "workspace": "Production"
+    },
+    {
+      "emailHistSeq": 10483,
+      "creationDate": "2026-07-06T13:00:08.000+0000",
+      "sentDate": null,
+      "subjectName": "Bounce Notification: Undeliverable to retired_emp@external.com",
+      "sysName": "DAPIS",
+      "workspace": "Production"
+    },
+    {
+      "emailHistSeq": 10482,
+      "creationDate": "2026-07-06T11:50:55.000+0000",
+      "sentDate": "2026-07-06T11:51:12.000+0000",
+      "subjectName": "Purchase Requisition Approval Required - PR#2026-7891",
+      "sysName": "PROCURE",
+      "workspace": "Production"
+    },
+    {
+      "emailHistSeq": 10481,
+      "creationDate": "2026-07-06T10:40:30.000+0000",
+      "sentDate": "2026-07-06T10:40:48.000+0000",
+      "subjectName": "New Help Desk Ticket Assigned - Ticket #HD-56234",
+      "sysName": "HELPDESK",
+      "workspace": "Production"
+    },
+    {
+      "emailHistSeq": 10480,
+      "creationDate": "2026-07-06T09:35:20.000+0000",
+      "sentDate": "2026-07-06T09:35:38.000+0000",
+      "subjectName": "Document Review Request - Technical Specification TS-2026-089",
+      "sysName": "DOCS",
+      "workspace": "Production"
+    },
+    {
+      "emailHistSeq": 10479,
+      "creationDate": "2026-07-05T16:25:10.000+0000",
+      "sentDate": null,
+      "subjectName": "RETRY FAILED: Shipment Tracking Update - SO#2026-33421",
+      "sysName": "LOGISTICS",
+      "workspace": "Production"
+    },
+    {
+      "emailHistSeq": 10478,
+      "creationDate": "2026-07-05T15:15:05.000+0000",
+      "sentDate": "2026-07-05T15:15:22.000+0000",
+      "subjectName": "Employee Onboarding Checklist - New Hire: Sarah Mitchell",
+      "sysName": "HR",
+      "workspace": "Production"
+    },
+    {
+      "emailHistSeq": 10477,
+      "creationDate": "2026-07-05T14:05:55.000+0000",
+      "sentDate": "2026-07-05T14:06:12.000+0000",
+      "subjectName": "Audit Trail Report - Financial Quarter Q2 2026",
+      "sysName": "AUDIT",
+      "workspace": "Production"
+    },
+    {
+      "emailHistSeq": 10476,
+      "creationDate": "2026-07-05T13:00:40.000+0000",
+      "sentDate": "2026-07-05T13:00:58.000+0000",
+      "subjectName": "Dealer Portal Account Activation - Dealer #DLR-45892",
+      "sysName": "DEALER",
+      "workspace": "Production"
+    },
+    {
+      "emailHistSeq": 10475,
+      "creationDate": "2026-07-05T11:50:30.000+0000",
+      "sentDate": null,
+      "subjectName": "ALERT: Disk Space Critical on Server APP-DB-01 (92% Used)",
+      "sysName": "MONITOR",
+      "workspace": "Production"
+    },
+    {
+      "emailHistSeq": 10474,
+      "creationDate": "2026-07-05T10:40:25.000+0000",
+      "sentDate": "2026-07-05T10:40:42.000+0000",
+      "subjectName": "Contract Renewal Reminder - Vendor: AutoParts International",
+      "sysName": "PROCURE",
+      "workspace": "Production"
+    },
+    {
+      "emailHistSeq": 10473,
+      "creationDate": "2026-07-05T09:30:15.000+0000",
+      "sentDate": "2026-07-05T09:30:33.000+0000",
+      "subjectName": "Expense Report Submitted for Approval - EXP-2026-4421",
+      "sysName": "FINANCE",
+      "workspace": "Production"
+    },
+    {
+      "emailHistSeq": 10472,
+      "creationDate": "2026-07-04T17:20:05.000+0000",
+      "sentDate": "2026-07-04T17:20:22.000+0000",
+      "subjectName": "Holiday Schedule Notification - Independence Day 2026",
+      "sysName": "HR",
+      "workspace": "Production"
+    },
+    {
+      "emailHistSeq": 10471,
+      "creationDate": "2026-07-04T16:10:55.000+0000",
+      "sentDate": null,
+      "subjectName": "FAILED DELIVERY: TLS Handshake Error to partner@external-corp.com",
+      "sysName": "DAPIS",
+      "workspace": "Staging"
+    },
+    {
+      "emailHistSeq": 10470,
+      "creationDate": "2026-07-04T15:00:45.000+0000",
+      "sentDate": "2026-07-04T15:01:02.000+0000",
+      "subjectName": "Product Recall Status Update - Campaign RC-2026-0698",
+      "sysName": "RECALL",
+      "workspace": "Production"
+    },
+    {
+      "emailHistSeq": 10469,
+      "creationDate": "2026-07-04T13:50:35.000+0000",
+      "sentDate": "2026-07-04T13:50:52.000+0000",
+      "subjectName": "IT Security Advisory - Phishing Attempt Detected",
+      "sysName": "SECURITY",
+      "workspace": "Production"
+    },
+    {
+      "emailHistSeq": 10468,
+      "creationDate": "2026-07-04T12:40:28.000+0000",
+      "sentDate": "2026-07-04T12:40:45.000+0000",
+      "subjectName": "Quality Inspection Report - Assembly Line 7 - Shift A",
+      "sysName": "QUALITY",
+      "workspace": "Production"
+    },
+    {
+      "emailHistSeq": 10467,
+      "creationDate": "2026-07-04T11:30:18.000+0000",
+      "sentDate": null,
+      "subjectName": "QUEUE OVERFLOW: 247 emails pending in outbound queue",
+      "sysName": "DAPIS",
+      "workspace": "Production"
+    },
+    {
+      "emailHistSeq": 10466,
+      "creationDate": "2026-07-04T10:20:10.000+0000",
+      "sentDate": "2026-07-04T10:20:28.000+0000",
+      "subjectName": "Fleet Management Report - July 2026 Vehicle Assignments",
+      "sysName": "FLEET",
+      "workspace": "Production"
+    },
+    {
+      "emailHistSeq": 10465,
+      "creationDate": "2026-07-03T16:10:00.000+0000",
+      "sentDate": "2026-07-03T16:10:18.000+0000",
+      "subjectName": "Engineering Change Notice - ECN-2026-1234 Approved",
+      "sysName": "ENGINEER",
+      "workspace": "Production"
+    },
+    {
+      "emailHistSeq": 10464,
+      "creationDate": "2026-07-03T15:00:50.000+0000",
+      "sentDate": "2026-07-03T15:01:08.000+0000",
+      "subjectName": "Customer Feedback Survey Results - Dealer Satisfaction Index",
+      "sysName": "CRM",
+      "workspace": "Production"
+    },
+    {
+      "emailHistSeq": 10463,
+      "creationDate": "2026-07-03T13:50:40.000+0000",
+      "sentDate": null,
+      "subjectName": "UNDELIVERABLE: Invalid recipient address ops_team_old@fcagroup.com",
+      "sysName": "PRDEV",
+      "workspace": "Production"
+    },
+    {
+      "emailHistSeq": 10462,
+      "creationDate": "2026-07-03T12:40:35.000+0000",
+      "sentDate": "2026-07-03T12:40:52.000+0000",
+      "subjectName": "Inventory Reorder Alert - Part# BRK-2200 Below Minimum",
+      "sysName": "PARTS",
+      "workspace": "Production"
+    },
+    {
+      "emailHistSeq": 10461,
+      "creationDate": "2026-07-03T11:30:25.000+0000",
+      "sentDate": "2026-07-03T11:30:42.000+0000",
+      "subjectName": "Timesheet Approval Reminder - Pay Period Ending July 3",
+      "sysName": "HR",
+      "workspace": "Production"
+    },
+    {
+      "emailHistSeq": 10460,
+      "creationDate": "2026-07-03T10:20:15.000+0000",
+      "sentDate": "2026-07-03T10:20:33.000+0000",
+      "subjectName": "Dealer Network Communication - New Model Year 2027 Pricing",
+      "sysName": "DEALER",
+      "workspace": "Production"
+    },
+    {
+      "emailHistSeq": 10459,
+      "creationDate": "2026-07-02T16:10:08.000+0000",
+      "sentDate": "2026-07-02T16:10:25.000+0000",
+      "subjectName": "Application Deployment Success - v3.14.2 to Production",
+      "sysName": "CICD",
+      "workspace": "Production"
+    },
+    {
+      "emailHistSeq": 10458,
+      "creationDate": "2026-07-02T15:00:58.000+0000",
+      "sentDate": null,
+      "subjectName": "SEND FAILURE: Authentication error with relay-smtp.fcagroup.com",
+      "sysName": "DAPIS",
+      "workspace": "Development"
+    },
+    {
+      "emailHistSeq": 10457,
+      "creationDate": "2026-07-02T13:50:48.000+0000",
+      "sentDate": "2026-07-02T13:51:05.000+0000",
+      "subjectName": "Compliance Training Due - Annual Anti-Corruption Module",
+      "sysName": "COMPLIANCE",
+      "workspace": "Production"
+    },
+    {
+      "emailHistSeq": 10456,
+      "creationDate": "2026-07-02T12:40:40.000+0000",
+      "sentDate": "2026-07-02T12:40:58.000+0000",
+      "subjectName": "Warranty Extension Notification - Campaign WE-2026-0089",
+      "sysName": "WARRANTY",
+      "workspace": "Production"
+    },
+    {
+      "emailHistSeq": 10455,
+      "creationDate": "2026-07-02T11:30:30.000+0000",
+      "sentDate": "2026-07-02T11:30:48.000+0000",
+      "subjectName": "Supplier Scorecard Report - Q2 2026 Performance Review",
+      "sysName": "PROCURE",
+      "workspace": "Production"
+    },
+    {
+      "emailHistSeq": 10454,
+      "creationDate": "2026-07-02T10:20:22.000+0000",
+      "sentDate": null,
+      "subjectName": "TIMEOUT: Connection to mail server exceeded 30s limit",
+      "sysName": "DAPIS",
+      "workspace": "Production"
+    },
+    {
+      "emailHistSeq": 10453,
+      "creationDate": "2026-07-01T16:10:12.000+0000",
+      "sentDate": "2026-07-01T16:10:30.000+0000",
+      "subjectName": "Environmental Compliance Certificate - Plant: Sterling Heights",
+      "sysName": "COMPLIANCE",
+      "workspace": "Production"
+    },
+    {
+      "emailHistSeq": 10452,
+      "creationDate": "2026-07-01T15:00:05.000+0000",
+      "sentDate": "2026-07-01T15:00:22.000+0000",
+      "subjectName": "New DAPIS Application Registered - App ID: APP-2026-0156",
+      "sysName": "PRDEV",
+      "workspace": "Production"
+    }
+  ]
+}
